@@ -17,7 +17,7 @@ BGU
   In *25th International Conference on Runtime Verification (RV 2025)*.  
   [arXiv](https://arxiv.org/abs/2508.01821)
 
-  
+---
 
 ## Talks & Presentations
 
@@ -32,6 +32,8 @@ BGU
 - **"omega-Regular Robustness"**   
   *IVD 2024*, BIU  
   December 2024
+
+---
 
 ## Contact
 
