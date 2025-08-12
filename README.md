@@ -8,12 +8,16 @@ header h1 {
 **PhD Student in Computer Science**  
 BGU
 
+---
+
 ## Publications
 
   D. Fisman and E. Sudit. (2025).   
   *Runtime consultants.*  
   In *25th International Conference on Runtime Verification (RV 2025)*.  
   [arXiv](https://arxiv.org/abs/2508.01821)
+
+  
 
 ## Talks & Presentations
 
