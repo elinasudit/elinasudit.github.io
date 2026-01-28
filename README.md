@@ -15,7 +15,7 @@ BGU
 - D. Fisman and E. Sudit. (2025).   
   *Runtime consultants.*  
   In *25th International Conference on Runtime Verification (RV 2025)*.  
-  [Springer](https://link.springer.com/chapter/10.1007/978-3-032-05435-7_27) [arXiv (full version)](https://arxiv.org/abs/2508.01821)
+  [Springer](https://link.springer.com/chapter/10.1007/978-3-032-05435-7_27)  |  [arXiv (full version)](https://arxiv.org/abs/2508.01821)
 
 - D. Fisman and E. Sudit.   
   *Omega-Regular Robustness*.  
